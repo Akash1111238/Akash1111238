@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently working Full stack Web development<br>I'm currently learning React js
+I'm currently working on Full stack Web development<br>I'm currently learning React js
 
 
 ## 🌐 Socials:
